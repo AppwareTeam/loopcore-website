@@ -359,7 +359,7 @@ html, body {
         to bottom,
       rgba(0,0,0,0) 0%,
       rgba(17, 17, 17, 0.6) 100%), 
-        url('/root/images/discordbot.png');
+        url('../images/discordbot.png');
      background-size: cover;
      position: relative;
 }
@@ -373,7 +373,7 @@ html, body {
         to bottom,
       rgba(0,0,0,0) 0%,
       rgba(17, 17, 17, 0.6) 100%), 
-        url('/root/images/websitepic.jpg');
+        url('../images/websitepic.jpg');
      background-size: cover;
      position: relative;
 }
@@ -387,7 +387,7 @@ html, body {
         to bottom,
       rgba(0,0,0,0) 0%,
       rgba(17, 17, 17, 0.6) 100%), 
-        url('/root/images/videoedit.jpg');
+        url('../images/videoedit.jpg');
      background-size: cover;
      position: relative;
 }
