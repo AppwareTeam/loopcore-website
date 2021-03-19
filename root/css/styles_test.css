@@ -554,6 +554,5 @@ html, body {
 }
 
 .footer-container {
-  display:flex;
-  flex-direction:column;
+  display:grid;
 }
